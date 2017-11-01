@@ -1,2 +1,2 @@
-# christ-cms
+# Christ: CMS
 Christ: Content Management System
